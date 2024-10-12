@@ -49,7 +49,3 @@ This is a simple Python application with a graphical user interface (GUI) that r
     - **Select Output File**: Click the "Browse" button next to the **Output File** field and specify the location where the sanitized file should be saved.
     - **Sanitize IPs**: Once both file paths are entered, click the "Sanitize IPs" button to process the file. The sanitized IP addresses will be saved to the specified output file.
 
-## Example
-
-### Input:
-If your input file contains the following content:
